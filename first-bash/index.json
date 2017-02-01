@@ -6,7 +6,9 @@
   "details": {
     "steps": [{
       "title": "Step 1 - pwd",
-      "text": "step01.md"
+      "text": "step01.md",
+      "answer": "step01-answer.md",
+      "verify": "step01-verify.sh"
     },
     {
       "title": "Step 2 - ls",
