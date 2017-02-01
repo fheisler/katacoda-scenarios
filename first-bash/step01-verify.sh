@@ -1,1 +1,1 @@
-echo "/home/scrapbook/tutorial"
+[[ echo !:0 = "pwd" ]] && echo "done"
