@@ -1,12 +1,20 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Intro Bash",
+  "description": "Practice basic shell commands",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "10 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
-      "text": "step1.md"
+      "title": "Step 1 - pwd",
+      "text": "step01.md"
+    },
+    {
+      "title": "Step 2 - ls",
+      "text": "step02.md"
+    },
+    {
+      "title": "Step 3 - cd",
+      "text": "step03.md"
     }],
     "intro": {
       "text": "intro.md",
