@@ -1,1 +1,1 @@
-echo "done"
+[[ !! = pwd ]] && echo "done"
