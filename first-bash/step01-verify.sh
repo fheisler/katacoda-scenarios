@@ -1,1 +1,1 @@
-[[ echo !:0 = "pwd" ]] && echo "done"
+echo "done"
