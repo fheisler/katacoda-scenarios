@@ -7,16 +7,18 @@
     "steps": [{
       "title": "Step 1 - pwd",
       "text": "step01.md",
-      "answer": "step01-answer.md",
-      "verify": "step01-verify.sh"
+      "answer": "step01-answer.md"
     },
     {
       "title": "Step 2 - ls",
-      "text": "step02.md"
+      "text": "step02.md",
+      "answer": "step02-answer.md"
     },
     {
       "title": "Step 3 - cd",
-      "text": "step03.md"
+      "text": "step03.md",
+      "answer": "step03-answer.md",
+      "verify": "step03-verify.sh"
     }],
     "intro": {
       "text": "intro.md",

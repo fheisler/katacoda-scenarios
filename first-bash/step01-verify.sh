@@ -1,1 +1,0 @@
-[ !-1 = pwd ] && echo "done"
